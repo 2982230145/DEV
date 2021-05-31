@@ -1,0 +1,9 @@
+git config --global user.name "2982230145"
+
+
+
+git config --global user.email "2982230145@qq.com"
+
+
+
+git clone https://github.com/2982230145/DEV.git
